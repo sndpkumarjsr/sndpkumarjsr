@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **Flight Management System**
+- 🔭 I’m currently working on **Smart Contact Manager**
 
 - 📫 How to reach me **sndpkumarjsr@hotmail.com**
 
